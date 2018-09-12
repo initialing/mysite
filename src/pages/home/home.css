@@ -53,3 +53,107 @@
     color: black;
     padding-top: 20px;
 }
+#slide-2{
+    background-color: #bfd9e6;
+}
+.slide-2-body{
+    width: 1080px;
+    height: 100%;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.s2-message{
+    margin-top: 150px;
+    width: 720px;
+    height: 200px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.s2-message div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.age{
+    width: 150px;
+    height: 100px;
+}
+.age span{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    background-image: url('../../../img/my.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.age p{
+    color:black;
+    font-size: 20px;
+}
+.graduate{
+    width: 150px;
+    height: 100px;
+}
+.graduate span{
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin: auto;
+    background-image: url('../../../img/学历.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.graduate p{
+    color:black;
+    font-size: 20px;
+}
+.possition{
+    width: 150px;
+    height: 100px;
+}
+.possition span{
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    margin: auto;
+    background-image: url('../../../img/定位.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.possition p{
+    color:black;
+    font-size: 20px;
+}
+.eng{
+    width: 150px;
+    height: 100px;
+}
+.eng span{
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    margin: auto;
+    background-image: url('../../../img/A级别.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.eng p{
+    color:black;
+    font-size: 20px;
+}
+.s2-content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.s2-content p{
+    color: black;
+    font-size: 15px;
+}
