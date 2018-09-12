@@ -157,3 +157,189 @@
     color: black;
     font-size: 15px;
 }
+#slide-3{
+    background-color: #7fc0e6;
+}
+.slide-3-body{
+    width: 1080px;
+    height: 100%;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.s3-title h5{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    padding-top: 150px;
+    margin-bottom: 30px;
+}
+.html{
+    margin-top: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.html p{
+    color: black;
+    font-size: 18px;
+}
+.html .total{
+    display: inline-block;
+    width: 200px;
+    height: 10px;
+    background-color: #bfd9e6;
+    border-radius: 10px;
+}
+.html .percent{
+    display: inline-block;
+    width: 80%;
+    height: 10px;
+    background-color: #2363da;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.css{
+    margin-top: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.css p{
+    color: black;
+    font-size: 18px;
+}
+.css .total{
+    display: inline-block;
+    width: 200px;
+    height: 10px;
+    background-color: #bfd9e6;
+    border-radius: 10px;
+    margin-left: 12px;
+}
+.css .percent{
+    display: inline-block;
+    width: 80%;
+    height: 10px;
+    background-color: #2363da;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.hjs{
+    margin-top: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.hjs p{
+    color: black;
+    font-size: 18px;
+}
+.hjs .total{
+    display: inline-block;
+    width: 200px;
+    height: 10px;
+    background-color: #bfd9e6;
+    border-radius: 10px;
+    margin-left: 22px;
+}
+.hjs .percent{
+    display: inline-block;
+    width: 75%;
+    height: 10px;
+    background-color: #2363da;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.vue{
+    margin-top: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.vue p{
+    color: black;
+    font-size: 18px;
+}
+.vue .total{
+    display: inline-block;
+    width: 200px;
+    height: 10px;
+    background-color: #bfd9e6;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+.vue .percent{
+    display: inline-block;
+    width: 80%;
+    height: 10px;
+    background-color: #2363da;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.node{
+    margin-top: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.node p{
+    color: black;
+    font-size: 18px;
+}
+.node .total{
+    display: inline-block;
+    width: 200px;
+    height: 10px;
+    background-color: #bfd9e6;
+    border-radius: 10px;
+    margin-right: 26px;
+}
+.node .percent{
+    display: inline-block;
+    width: 20%;
+    height: 10px;
+    background-color: #2363da;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.python{
+    margin-top: 20px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.python p{
+    color: black;
+    font-size: 18px;
+}
+.python .total{
+    display: inline-block;
+    width: 200px;
+    height: 10px;
+    background-color: #bfd9e6;
+    border-radius: 10px;
+    margin-right: 26px;
+}
+.python .percent{
+    display: inline-block;
+    width: 35%;
+    height: 10px;
+    background-color: #2363da;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}

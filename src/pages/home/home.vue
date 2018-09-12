@@ -30,7 +30,43 @@
                     </div>
                 </div>
             </swiper-slide>
-            <swiper-slide>I'm Slide 3</swiper-slide>
+            <swiper-slide id="slide-3">
+                <div class="slide-3-body">
+                    <div class="s3-title">
+                        <h5>相关技能</h5>
+                    </div>
+                    <div class="html">
+                        <p>html</p>
+                        <span class="total"><span class="percent"></span></span>
+                        <p>熟练</p>
+                    </div>
+                    <div class="css">
+                        <p>css</p>
+                        <span class="total"><span class="percent"></span></span>
+                        <p>熟练</p>
+                    </div>
+                    <div class="hjs">
+                        <p>js</p>
+                        <span class="total"><span class="percent"></span></span>
+                        <p>熟练</p>
+                    </div>
+                    <div class="vue">
+                        <p>vue.js</p>
+                        <span class="total"><span class="percent"></span></span>
+                        <p>熟练</p>
+                    </div>
+                    <div class="node">
+                        <p>node.js</p>
+                        <span class="total"><span class="percent"></span></span>
+                        <p>了解</p>
+                    </div>
+                    <div class="python">
+                        <p>python</p>
+                        <span class="total"><span class="percent"></span></span>
+                        <p>了解</p>
+                    </div>
+                </div>
+            </swiper-slide>
             <swiper-slide>I'm Slide 4</swiper-slide>
             <swiper-slide>I'm Slide 5</swiper-slide>
             <swiper-slide>I'm Slide 6</swiper-slide>
