@@ -101,8 +101,19 @@
                     </div>
                 </div>
             </swiper-slide>
-            <swiper-slide>I'm Slide 6</swiper-slide>
-            <swiper-slide>I'm Slide 7</swiper-slide>
+            <swiper-slide id="slide-6">
+                <div class="slide-6-body">
+                    <div class="s6-title">
+                        <h5>感谢浏览</h5>
+                    </div>
+                    <div class="s6-content">
+                        <p>我相信学习能力是职业生涯的关键</p>
+                        <p>前端编程魅力能及时获取工作效果正向反馈</p>
+                        <p>前端编程即兴趣所在，希望能给我面试机会</p>
+                    </div>
+                </div>
+                <div class="bottom">请尝试Ctrl+Shift+I,点击console</div>
+            </swiper-slide>
         </swiper>
     </div>
 </template>
