@@ -28,3 +28,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+#安装Chromedriver出错执行以下这条命令
+npm config set chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
