@@ -67,7 +67,17 @@
                     </div>
                 </div>
             </swiper-slide>
-            <swiper-slide>I'm Slide 4</swiper-slide>
+            <swiper-slide id="slide-4">
+                <div class="slide-4-body">
+                    <div class="s4-title">
+                        <h5>教育经历</h5>
+                    </div>
+                    <Steps :current="1" direction="vertical">
+                        <Step title="2012-2016" content="本科：东华大学机械工程"></Step>
+                        <Step title="2016至今" content="硕士：东华大学机电控制工程"></Step>
+                    </Steps>
+                </div>
+            </swiper-slide>
             <swiper-slide>I'm Slide 5</swiper-slide>
             <swiper-slide>I'm Slide 6</swiper-slide>
             <swiper-slide>I'm Slide 7</swiper-slide>

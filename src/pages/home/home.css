@@ -343,3 +343,52 @@
     border-radius: 10px;
     margin-bottom: 5px;
 }
+#slide-4{
+    background-color: #7ba6f7;
+}
+.slide-4-body{
+    width: 1080px;
+    height: 100%;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.s4-title h5{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    padding-top: 150px;
+    margin-bottom: 30px;
+}
+.ivu-steps{
+    margin-top: 40px;
+    width: 260px;
+}
+.ivu-steps-status-finish{
+    height: 150px;
+}
+.ivu-steps-head,.ivu-steps-title{
+    background-color: #7ba6f7!important;
+    color: black!important;
+    font-size: 15px!important;
+}
+.ivu-steps-status-finish .ivu-steps-head-inner {
+    background-color: #6bc30d!important;
+    border-color: #ffffff!important;
+}
+.ivu-steps-status-finish .ivu-steps-head-inner>.ivu-steps-icon {
+    color: white;
+}
+.ivu-steps-content{
+    color: black!important;
+    font-size: 15px!important;
+}
+.ivu-steps-status-process .ivu-steps-head-inner {
+    background-color: #f3dc5d!important;
+    border-color: #ffffff!important;
+}
+.ivu-steps-status-process .ivu-steps-head-inner>.ivu-steps-icon {
+    color: white;
+}
