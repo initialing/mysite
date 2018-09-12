@@ -78,7 +78,29 @@
                     </Steps>
                 </div>
             </swiper-slide>
-            <swiper-slide>I'm Slide 5</swiper-slide>
+            <swiper-slide id="slide-5">
+                <div class="slide-5-body">
+                    <div class="s5-title">
+                        <h5>项目实习经历</h5>
+                    </div>
+                    <div class="s5-content">
+                        <div class="date">
+                            <p>2018.5至今</p>
+                        </div>
+                        <div class="situation">
+                            <p>&lt;web前端工程师&gt;</p>
+                        </div>
+                        <div class="work">
+                            <ul>
+                                <li>编写网页所需的VUE组件</li>
+                                <li>编写雪佛兰经销商素材管理的页面</li>
+                                <li>编写雪佛兰经销商微信服务号的搜索页面</li>
+                                <li>参与编写泛亚售车电商平台的经销商端的操作页面</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </swiper-slide>
             <swiper-slide>I'm Slide 6</swiper-slide>
             <swiper-slide>I'm Slide 7</swiper-slide>
         </swiper>

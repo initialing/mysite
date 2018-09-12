@@ -392,3 +392,39 @@
 .ivu-steps-status-process .ivu-steps-head-inner>.ivu-steps-icon {
     color: white;
 }
+.slide-5-body{
+    width: 1080px;
+    height: 100%;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.s5-title h5{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    padding-top: 150px;
+    margin-bottom: 30px;
+}
+.s5-content{
+    margin-top: 80px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.date p,.situation p{
+    color: black;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.work{
+    color: black;
+    padding-top: 10px;
+    font-size: 15px;
+}
+.work li{
+    padding-top: 10px;
+}
