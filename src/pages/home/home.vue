@@ -88,6 +88,7 @@
                             <p>2018.5至今</p>
                         </div>
                         <div class="situation">
+                            <p>上海香果科技有限公司</p>
                             <p>&lt;web前端工程师&gt;</p>
                         </div>
                         <div class="work">
